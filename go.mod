@@ -1,4 +1,4 @@
-module proto
+module github.com/gffone/protos
 
 go 1.23.2
 
